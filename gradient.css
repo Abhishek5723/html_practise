@@ -1,0 +1,27 @@
+.box{
+    
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    padding: 50px;
+    background-image: linear-gradient(to right, green,lightblue,blue);
+    background-image: radial-gradient( circle,orange,yellow,red);
+    background-image:  repeating-conic-gradient(pink,yellow)
+
+}
+ .acha{
+    margin: 20px;
+    border: 1px solid black;
+    width: 10%;
+    box-shadow: -10px -10px 10px goldenrod,10px 10px 10px red  ;
+    
+}
+.thik-h{
+    margin: 20px;
+    text-shadow: -5px -5px 5px green;
+}
+.acha-ji{
+    border: 1px solid black;
+    overflow: scroll;
+}
+
